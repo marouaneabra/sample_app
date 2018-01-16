@@ -42,3 +42,4 @@ For more information, see the
 
 ################################################################
 https://desolate-retreat-64046.herokuapp.com/
+rails server: rails s -b $IP -p $PORT
